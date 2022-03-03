@@ -4,6 +4,11 @@ WARNING THIS MAY BE SLOW IF YOU HAVE A LARGE NUMBER OF FILES TO INGEST
 
 Read files with dynamic input statements
 
+GitHub                                                                            
+https://tinyurl.com/2p95ssrn                                                      
+https://github.com/rogerjdeangelis/utl-read-files-with-dynamic-input-statements   
+
+
 /*                   _
 (_)_ __  _ __  _   _| |_
 | | `_ \| `_ \| | | | __|
